@@ -91,7 +91,7 @@
   <meta property="og:site_name" content="Camilla Cattania">
   <meta property="og:url" content="https://camcat.github.io/publication/2016b/">
   <meta property="og:title" content="A parallel code to calculate seismicity evolution induced by time dependent, heterogeneous Coulomb stress changes | Camilla Cattania">
-  <meta property="og:description" content="The estimation of space and time-dependent earthquake probabilities, including aftershock sequences, has received increased attention in recent years, and Operational Earthquake Forecasting systems are currently being implemented in various countries. Physics based earthquake forecasting models compute time dependent earthquake rates based on Coulomb stress changes, coupled with seismicity evolution laws derived from rate-state friction. While early implementations of such models typically performed poorly compared to statistical models, recent studies indicate that significant performance improvements can be achieved by considering the spatial heterogeneity of the stress field and secondary sources of stress. However, the major drawback of these methods is a rapid increase in computational costs. Here we present a code to calculate seismicity induced by time dependent stress changes. An important feature of the code is the possibility to include aleatoric uncertainties due to the existence of multiple receiver faults and to the finite grid size, as well as epistemic uncertainties due to the choice of input slip model. To compensate for the growth in computational requirements, we have parallelized the code for shared memory systems (using OpenMP) and distributed memory systems (using MPI). Performance tests indicate that these parallelization strategies lead to a significant speedup for problems with different degrees of complexity, ranging from those which can be solved on standard multicore desktop computers, to those requiring a small cluster, to a large simulation that can be run using up to 1500 cores."><meta property="og:image" content="https://camcat.github.io/img/headers/bubbles-wide.jpg">
+  <meta property="og:description" content="The estimation of space and time-dependent earthquake probabilities, including aftershock sequences, has received increased attention in recent years, and Operational Earthquake Forecasting systems are currently being implemented in various countries. Physics based earthquake forecasting models compute time dependent earthquake rates based on Coulomb stress changes, coupled with seismicity evolution laws derived from rate-state friction. While early implementations of such models typically performed poorly compared to statistical models, recent studies indicate that significant performance improvements can be achieved by considering the spatial heterogeneity of the stress field and secondary sources of stress. However, the major drawback of these methods is a rapid increase in computational costs. Here we present a code to calculate seismicity induced by time dependent stress changes. An important feature of the code is the possibility to include aleatoric uncertainties due to the existence of multiple receiver faults and to the finite grid size, as well as epistemic uncertainties due to the choice of input slip model. To compensate for the growth in computational requirements, we have parallelized the code for shared memory systems (using OpenMP) and distributed memory systems (using MPI). Performance tests indicate that these parallelization strategies lead to a significant speedup for problems with different degrees of complexity, ranging from those which can be solved on standard multicore desktop computers, to those requiring a small cluster, to a large simulation that can be run using up to 1500 cores.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2016-06-06T00:00:00&#43;00:00">
@@ -277,15 +277,6 @@
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-<div class="article-header">
-  
-  
-    <img src="/img/headers/bubbles-wide.jpg" class="article-banner" itemprop="image">
-  
-
-  <span class="article-header-caption">My caption 😄</span>
-</div>
-
 
 
   <div class="article-container">
