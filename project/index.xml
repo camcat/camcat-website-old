@@ -42,21 +42,21 @@ These observations indicate that plate coupling and seismicity rates are not con
     </item>
     
     <item>
-      <title>Operational Earthquake Forecasting</title>
-      <link>https://camcat.github.io/project/coulomb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://camcat.github.io/project/coulomb/</guid>
-      <description>During my PhD, I developed physical models of aftershock sequences based on Coulomb stress transfer, in the context of probabilistic earthquake forecasting: the goal was to improve the statistical performance of aftershock models. My approach has been guided by an attempt to construct physically consistent and realistic models of the processes involves. I have addressed two questions: (1) what is the effect of afterslip on seismicity? (2) how can we realistically model the heterogeneity of the stress field produced by large earthquakes?</description>
-    </item>
-    
-    <item>
       <title>Seismic swarms and seismic slip driven by dikes</title>
       <link>https://camcat.github.io/project/miyakejima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://camcat.github.io/project/miyakejima/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Static stress triggering in Operational Earthquake Forecasting</title>
+      <link>https://camcat.github.io/project/coulomb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://camcat.github.io/project/coulomb/</guid>
+      <description>During my PhD, I developed physical models of aftershock sequences based on Coulomb stress transfer, in the context of probabilistic earthquake forecasting: the goal was to improve the statistical performance of aftershock models. My approach has been guided by an attempt to construct physically consistent and realistic models of the processes involves. I have addressed two questions: (1) what is the effect of afterslip on seismicity? (2) how can we realistically model the heterogeneity of the stress field produced by large earthquakes?</description>
     </item>
     
   </channel>
