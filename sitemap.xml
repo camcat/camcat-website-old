@@ -371,13 +371,6 @@
     
     <url>
     
-      <loc>https://camcat.github.io/project/coulomb/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://camcat.github.io/tags/past/</loc>
       <priority>0</priority>
     </url>
@@ -404,6 +397,13 @@
     <url>
     
       <loc>https://camcat.github.io/project/miyakejima/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://camcat.github.io/project/coulomb/</loc>
     </url>
     
   
