@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on Camilla Cattania</title>
+    <link>https://camcat.github.io/tags/current/</link>
+    <description>Recent content in Current on Camilla Cattania</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="https://camcat.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crack models of small repeating earthquakes</title>
+      <link>https://camcat.github.io/project/repeaters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://camcat.github.io/project/repeaters/</guid>
+      <description>with Paul Segall
+ Comparison between numerical simulations (dots) and analytical results (blue line), showing the $T_r\sim M_0^{1/ 6}$ scaling observed in nature. The blue line and red lines indicate the recurrence time derived analytically (and they apply for $R\lesssim 4.2R_{\infty}$ and $R\gtrsim 4.2R_{\infty} respectively$).   Small repeating earthquakes are events characterized by very similar waveforms, and overlapping rupture areas. Unlike most other earthquakes, they are very periodic; they are commonly interpreted as rupturing an isolated asperity embedded in a velocity-strengthening (creeping) fault.</description>
+    </item>
+    
+    <item>
+      <title>Earthquake Cycle and time-dependent coupling in Subduction Zones</title>
+      <link>https://camcat.github.io/project/tohoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://camcat.github.io/project/tohoku/</guid>
+      <description>with Paul Segall and Kaj Johnson
+The Mw 9.0 2011 Tohoku earthquake was preceded by a acceleration of the plate interface, as indicated by nonlinear trends in the GPS time series (1996-2011) as well as repeating events (for more detail, see here). Moreover, an increase in the frequency of M7+ earthquakes was observed during this period, including a Mw 7.3 foreshock two days before the Tohoku earthquake.
+These observations indicate that plate coupling and seismicity rates are not constant throughout the seismic cycle; the traditional distinction into “stick-slip” asperities (locked interseismically, and slipping during earthquakes) and creeping regions (slipping interseismically, and not coseismically) needs to be revised, as confirmed by multiple studies in Japan and elsewhere.</description>
+    </item>
+    
+    <item>
+      <title>Operational Earthquake Forecasting</title>
+      <link>https://camcat.github.io/project/coulomb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://camcat.github.io/project/coulomb/</guid>
+      <description>During my PhD, I developed physical models of aftershock sequences based on Coulomb stress transfer, in the context of probabilistic earthquake forecasting: the goal was to improve the statistical performance of aftershock models. My approach has been guided by an attempt to construct physically consistent and realistic models of the processes involves. I have addressed two questions: (1) what is the effect of afterslip on seismicity? (2) how can we realistically model the heterogeneity of the stress field produced by large earthquakes?</description>
+    </item>
+    
+  </channel>
+</rss>
