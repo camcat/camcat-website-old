@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://camcat.github.io/publication/2018b/</loc>
+      <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://camcat.github.io/content/home/news/</loc>
       <lastmod>2018-08-18T17:16:31-07:00</lastmod>
     </url>
@@ -318,22 +326,7 @@
     
     <url>
     
-      <loc>https://camcat.github.io/publication/2018b/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://camcat.github.io/project/repeaters/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://camcat.github.io/tags/current/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -348,14 +341,6 @@
     <url>
     
       <loc>https://camcat.github.io/project/tohoku/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://camcat.github.io/tags/past/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -393,6 +378,22 @@
     <url>
     
       <loc>https://camcat.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://camcat.github.io/tags/current/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://camcat.github.io/tags/past/</loc>
       <priority>0</priority>
     </url>
     

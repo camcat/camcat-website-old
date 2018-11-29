@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Current</title>
+      <title>current</title>
       <link>https://camcat.github.io/tags/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Past</title>
+      <title>past</title>
       <link>https://camcat.github.io/tags/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
