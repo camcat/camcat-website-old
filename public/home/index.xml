@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Aug 2018 17:16:31 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>/home/news/</link>
+      <pubDate>Sat, 18 Aug 2018 17:16:31 -0700</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects_past</title>
+      <link>/home/projects_past/</link>
+      <pubDate>Sat, 18 Aug 2018 15:15:32 -0700</pubDate>
+      
+      <guid>/home/projects_past/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

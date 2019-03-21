@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Aug 2018 15:33:39 -0700</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Repeaters</title>
+      <link>/project/repeaters/</link>
+      <pubDate>Sat, 18 Aug 2018 15:33:39 -0700</pubDate>
+      
+      <guid>/project/repeaters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coulomb</title>
+      <link>/project/coulomb/</link>
+      <pubDate>Sat, 18 Aug 2018 15:33:28 -0700</pubDate>
+      
+      <guid>/project/coulomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miyakejima</title>
+      <link>/project/miyakejima/</link>
+      <pubDate>Sat, 18 Aug 2018 15:33:17 -0700</pubDate>
+      
+      <guid>/project/miyakejima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qdg</title>
+      <link>/project/qdg/</link>
+      <pubDate>Sat, 18 Aug 2018 15:32:53 -0700</pubDate>
+      
+      <guid>/project/qdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tohoku</title>
+      <link>/project/tohoku/</link>
+      <pubDate>Sat, 04 Aug 2018 11:43:22 -0700</pubDate>
+      
+      <guid>/project/tohoku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project6</title>
+      <link>/project/project6/</link>
+      <pubDate>Sat, 04 Aug 2018 11:30:20 -0700</pubDate>
+      
+      <guid>/project/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project5</title>
+      <link>/project/project5/</link>
+      <pubDate>Sat, 04 Aug 2018 11:30:18 -0700</pubDate>
+      
+      <guid>/project/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project4</title>
+      <link>/project/project4/</link>
+      <pubDate>Sat, 04 Aug 2018 11:30:17 -0700</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project1</title>
+      <link>/project/project1/</link>
+      <pubDate>Sat, 04 Aug 2018 11:30:15 -0700</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project3</title>
+      <link>/project/project3/</link>
+      <pubDate>Sat, 04 Aug 2018 11:30:13 -0700</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project2</title>
+      <link>/project/project2/</link>
+      <pubDate>Sat, 04 Aug 2018 10:50:49 -0700</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>/project/intro/</link>
+      <pubDate>Sat, 04 Aug 2018 10:34:01 -0700</pubDate>
+      
+      <guid>/project/intro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
